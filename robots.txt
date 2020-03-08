@@ -5,4 +5,4 @@ Disallow: /*%*
 Disallow: /tag=*
 Disallow: /?feed
 Disallow: /?=*
-Sitemap: https://guangxiangzhu.github.io/baidusitemap.xml
+Sitemap: https://guangxiangzhu.github.io/sitemap.xml
